@@ -144,7 +144,8 @@ class KeyMapManager : MonoBehaviour
 		
         Map().AddKey("Pause", KeyCode.P, InputType.Button);
         Map().AddKey("Pause", KeyCode.Escape, InputType.Button);
-
+        
+        
     }
     
     /// <summary>
