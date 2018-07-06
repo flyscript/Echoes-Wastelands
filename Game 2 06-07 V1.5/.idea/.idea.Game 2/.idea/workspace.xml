@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="698f9505-f197-40c1-8a6a-59aef4b12529" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>inputSystem</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Pages.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Pages.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="820" />
+    <option name="y" value="-20" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Items" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Player" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Player" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Input" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="698f9505-f197-40c1-8a6a-59aef4b12529" name="Default" comment="" />
+      <created>1530711395296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530711395296</updated>
+      <workItem from="1530711397771" duration="91000" />
+      <workItem from="1530711503608" duration="1460000" />
+      <workItem from="1530714522025" duration="2995000" />
+      <workItem from="1530782622445" duration="3772000" />
+      <workItem from="1530788267685" duration="1997000" />
+      <workItem from="1530790896918" duration="6851000" />
+      <workItem from="1530828798811" duration="1411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18577000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3820">
+          <caret line="191" column="4" lean-forward="false" selection-start-line="191" selection-start-column="4" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1213" ph="/* Input Handler ... */" />
+            <marker date="1530816956000" expanded="false" signature="1229:1275" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1278:1466" ph="/* The main class. Should only be instantiated once; will track all input for you, make requests to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="1485:8134" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1490:1592" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1598:1669" ph="/// Dictionary of inputs to be tracked ... " />
+            <marker date="1530816956000" expanded="true" signature="1733:1870" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="1876:1958" ph="/// Dictionary of events when key is pressed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2020:2096" ph="/// Dictionary of events when key is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2156:2239" ph="/// Dictionary of events when key changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2304:2390" ph="/// Dictionary of events every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2562" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="2568:2629" ph="/// Creates an input handler ... " />
+            <marker date="1530816956000" expanded="true" signature="2651:2996" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3002:3095" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="3119:5272" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3188:5268" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3201:3418" ph="/* do something with input.Value or input.Key ... */" />
+            <marker date="1530816956000" expanded="true" signature="3521:4375" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3620:3710" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3744:3834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3900:3990" ph="/* input.Value.Position[0] = UnityInput.GetAxisPos(input.Key)[0]; ... */" />
+            <marker date="1530816956000" expanded="true" signature="4433:5262" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4465:5254" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4565:4646" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4751:4830" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4945:5029" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5142:5225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5286:5388" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="5394:5609" ph="/// Method to add input to the dictionary for tracking ... " />
+            <marker date="1530816956000" expanded="true" signature="5680:5825" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5831:5989" ph="/// Method to remove input from the dictionary ... " />
+            <marker date="1530816956000" expanded="true" signature="6039:6224" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6090:6143" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6152:6220" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6228:6400" ph="/// Method to get status of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6452:6655" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6503:6555" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6564:6651" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6663:6844" ph="/// Method to get just position of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6894:7106" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6945:7006" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7015:7102" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7112:7491" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="7585:8129" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7613:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:146" ph="/* Items ... */" />
+            <marker date="1530816956000" expanded="false" signature="162:331" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="333:403" ph="/// Describes the type of item a thing is ... " />
+            <marker date="1530816956000" expanded="true" signature="424:853" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="431:522" ph="/// Items that improve the player's health in some way ... " />
+            <marker date="1530816956000" expanded="true" signature="544:632" ph="/// Items that aid the player in combat in some way ... " />
+            <marker date="1530816956000" expanded="true" signature="654:718" ph="/// Items that unlock doors ... " />
+            <marker date="1530816956000" expanded="true" signature="738:829" ph="/// Items that are collected for the sake of narrative ... " />
+            <marker date="1530816956000" expanded="true" signature="855:932" ph="/// The class that all items should inherit from ... " />
+            <marker date="1530816956000" expanded="true" signature="950:1211" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1107:1199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Items/Pages.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:240" ph="/* Pages Items ... */" />
+            <marker date="1530816956000" expanded="true" signature="275:452" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="420:441" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="454:535" ph="/* In code somewhere: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="4" lean-forward="false" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:447" ph="/* Player Main ... */" />
+            <marker date="1530816956000" expanded="false" signature="455:546" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="587:2438" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="591:691" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="862:962" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="966:1019" ph="/// Initialises Player ... " />
+            <marker date="1530816956000" expanded="true" signature="1034:1252" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1256:1307" ph="/// Runs every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="1323:1332" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1340:1440" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="1443:1596" ph="/// Damages the player by the given amount ... " />
+            <marker date="1530816956000" expanded="true" signature="1631:1793" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1647:1790" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1765:1786" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1795:1924" ph="/// Adds health to the player ... " />
+            <marker date="1530816956000" expanded="true" signature="1957:2064" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1973:2061" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="2067:2176" ph="/// Returns the player's current health ... " />
+            <marker date="1530816956000" expanded="true" signature="2202:2225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="2230:2343" ph="/// Only to be called within Player class, runs nessecary procedure to kill player ... " />
+            <marker date="1530816956000" expanded="true" signature="2363:2432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="147" column="8" lean-forward="false" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1096" ph="/* Keymap Manager ... */" />
+            <marker date="1530816956000" expanded="false" signature="1112:1172" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1174:1233" ph="/// Manages the use of keymaps ... " />
+            <marker date="1530816956000" expanded="true" signature="1269:11507" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1276:1382" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1392:1456" ph="/// Pointer to InputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="1496:1555" ph="/// Key to current map ... " />
+            <marker date="1530816956000" expanded="true" signature="1594:1665" ph="/// Dictionary of all virtual keys ... " />
+            <marker date="1530816956000" expanded="true" signature="1735:1794" ph="/// Dictionary of maps ... " />
+            <marker date="1530816956000" expanded="true" signature="1876:2019" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="2029:2136" ph="/// Dictionary of event to be fired when virtual button is pushed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2247:2349" ph="/// Dictionary of event to be fired when virtual button is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2569" ph="/// Dictionary of event to be fired when virtual button changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2680:2781" ph="/// Dictionary of event to be fired every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2902:3008" ph="/* Define Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="3018:3087" ph="/// Start method called by Unity ... " />
+            <marker date="1530816956000" expanded="true" signature="3104:4379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4389:4486" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="4504:7343" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4550:4684" ph="/* For every frame, update the virtual button by going through every key that contributes to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="4778:7337" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4801:4938" ph="/* virtualRealPair.Key is the name of the virtual key ... */" />
+            <marker date="1530816956000" expanded="true" signature="5016:7327" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5163:5525" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5751:5821" ph="/* Fire necessary events ... */" />
+            <marker date="1530816956000" expanded="true" signature="5868:7313" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5922:7295" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6074:6239" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6400:6563" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6734:6902" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7071:7238" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7363:7469" ph="/* Virtual Button Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="7479:7611" ph="/// Creates a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="7658:7930" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7711:7826" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7839:7924" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7940:8078" ph="/// Removes a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="8128:8377" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8181:8243" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8256:8371" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8385:8771" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="8863:9521" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8897:9515" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9541:9647" ph="/* Map Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="9657:9763" ph="/// Returns the inputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="9802:9834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9844:9942" ph="/// Returns the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="9966:10011" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10021:10157" ph="/// Sets the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="10193:10414" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10236:10288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10301:10408" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10422:10554" ph="/// Adds a new keymap to the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="10591:10850" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10634:10741" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10754:10844" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10858:11002" ph="/// Removes a keymap from the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="11042:11505" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11085:11379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11128:11288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11305:11369" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11392:11499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1096" ph="/* Keymap Manager ... */" />
+            <marker date="1530816956000" expanded="false" signature="1112:1172" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1174:1233" ph="/// Manages the use of keymaps ... " />
+            <marker date="1530816956000" expanded="true" signature="1269:11507" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1276:1382" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1392:1456" ph="/// Pointer to InputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="1496:1555" ph="/// Key to current map ... " />
+            <marker date="1530816956000" expanded="true" signature="1594:1665" ph="/// Dictionary of all virtual keys ... " />
+            <marker date="1530816956000" expanded="true" signature="1735:1794" ph="/// Dictionary of maps ... " />
+            <marker date="1530816956000" expanded="true" signature="1876:2019" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="2029:2136" ph="/// Dictionary of event to be fired when virtual button is pushed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2247:2349" ph="/// Dictionary of event to be fired when virtual button is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2569" ph="/// Dictionary of event to be fired when virtual button changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2680:2781" ph="/// Dictionary of event to be fired every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2902:3008" ph="/* Define Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="3018:3087" ph="/// Start method called by Unity ... " />
+            <marker date="1530816956000" expanded="true" signature="3104:4379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4389:4486" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="4504:7343" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4550:4684" ph="/* For every frame, update the virtual button by going through every key that contributes to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="4778:7337" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4801:4938" ph="/* virtualRealPair.Key is the name of the virtual key ... */" />
+            <marker date="1530816956000" expanded="true" signature="5016:7327" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5163:5525" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5751:5821" ph="/* Fire necessary events ... */" />
+            <marker date="1530816956000" expanded="true" signature="5868:7313" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5922:7295" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6074:6239" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6400:6563" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6734:6902" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7071:7238" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7363:7469" ph="/* Virtual Button Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="7479:7611" ph="/// Creates a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="7658:7930" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7711:7826" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7839:7924" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7940:8078" ph="/// Removes a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="8128:8377" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8181:8243" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8256:8371" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8385:8771" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="8863:9521" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8897:9515" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9541:9647" ph="/* Map Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="9657:9763" ph="/// Returns the inputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="9802:9834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9844:9942" ph="/// Returns the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="9966:10011" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10021:10157" ph="/// Sets the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="10193:10414" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10236:10288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10301:10408" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10422:10554" ph="/// Adds a new keymap to the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="10591:10850" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10634:10741" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10754:10844" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10858:11002" ph="/// Removes a keymap from the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="11042:11505" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11085:11379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11128:11288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11305:11369" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11392:11499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:447" ph="/* Player Main ... */" />
+            <marker date="1530816956000" expanded="false" signature="455:546" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="587:2438" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="591:691" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="862:962" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="966:1019" ph="/// Initialises Player ... " />
+            <marker date="1530816956000" expanded="true" signature="1034:1252" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1256:1307" ph="/// Runs every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="1323:1332" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1340:1440" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="1443:1596" ph="/// Damages the player by the given amount ... " />
+            <marker date="1530816956000" expanded="true" signature="1631:1793" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1647:1790" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1765:1786" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1795:1924" ph="/// Adds health to the player ... " />
+            <marker date="1530816956000" expanded="true" signature="1957:2064" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1973:2061" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="2067:2176" ph="/// Returns the player's current health ... " />
+            <marker date="1530816956000" expanded="true" signature="2202:2225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="2230:2343" ph="/// Only to be called within Player class, runs nessecary procedure to kill player ... " />
+            <marker date="1530816956000" expanded="true" signature="2363:2432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Items/Pages.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:240" ph="/* Pages Items ... */" />
+            <marker date="1530816956000" expanded="true" signature="275:452" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="420:441" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="454:535" ph="/* In code somewhere: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1213" ph="/* Input Handler ... */" />
+            <marker date="1530816956000" expanded="false" signature="1229:1275" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1278:1466" ph="/* The main class. Should only be instantiated once; will track all input for you, make requests to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="1485:8134" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1490:1592" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1598:1669" ph="/// Dictionary of inputs to be tracked ... " />
+            <marker date="1530816956000" expanded="true" signature="1733:1870" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="1876:1958" ph="/// Dictionary of events when key is pressed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2020:2096" ph="/// Dictionary of events when key is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2156:2239" ph="/// Dictionary of events when key changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2304:2390" ph="/// Dictionary of events every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2562" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="2568:2629" ph="/// Creates an input handler ... " />
+            <marker date="1530816956000" expanded="true" signature="2651:2996" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3002:3095" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="3119:5272" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3188:5268" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3201:3418" ph="/* do something with input.Value or input.Key ... */" />
+            <marker date="1530816956000" expanded="true" signature="3521:4375" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3620:3710" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3744:3834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3900:3990" ph="/* input.Value.Position[0] = UnityInput.GetAxisPos(input.Key)[0]; ... */" />
+            <marker date="1530816956000" expanded="true" signature="4433:5262" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4465:5254" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4565:4646" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4751:4830" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4945:5029" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5142:5225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5286:5388" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="5394:5609" ph="/// Method to add input to the dictionary for tracking ... " />
+            <marker date="1530816956000" expanded="true" signature="5680:5825" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5831:5989" ph="/// Method to remove input from the dictionary ... " />
+            <marker date="1530816956000" expanded="true" signature="6039:6224" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6090:6143" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6152:6220" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6228:6400" ph="/// Method to get status of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6452:6655" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6503:6555" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6564:6651" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6663:6844" ph="/// Method to get just position of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6894:7106" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6945:7006" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7015:7102" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7112:7491" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="7585:8129" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7613:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:146" ph="/* Items ... */" />
+            <marker date="1530816956000" expanded="false" signature="162:331" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="333:403" ph="/// Describes the type of item a thing is ... " />
+            <marker date="1530816956000" expanded="true" signature="424:853" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="431:522" ph="/// Items that improve the player's health in some way ... " />
+            <marker date="1530816956000" expanded="true" signature="544:632" ph="/// Items that aid the player in combat in some way ... " />
+            <marker date="1530816956000" expanded="true" signature="654:718" ph="/// Items that unlock doors ... " />
+            <marker date="1530816956000" expanded="true" signature="738:829" ph="/// Items that are collected for the sake of narrative ... " />
+            <marker date="1530816956000" expanded="true" signature="855:932" ph="/// The class that all items should inherit from ... " />
+            <marker date="1530816956000" expanded="true" signature="950:1211" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1107:1199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1213" ph="/* Input Handler ... */" />
+            <marker date="1530816956000" expanded="false" signature="1229:1275" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1278:1466" ph="/* The main class. Should only be instantiated once; will track all input for you, make requests to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="1485:8134" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1490:1592" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1598:1669" ph="/// Dictionary of inputs to be tracked ... " />
+            <marker date="1530816956000" expanded="true" signature="1733:1870" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="1876:1958" ph="/// Dictionary of events when key is pressed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2020:2096" ph="/// Dictionary of events when key is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2156:2239" ph="/// Dictionary of events when key changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2304:2390" ph="/// Dictionary of events every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2562" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="2568:2629" ph="/// Creates an input handler ... " />
+            <marker date="1530816956000" expanded="true" signature="2651:2996" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3002:3095" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="3119:5272" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3188:5268" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3201:3418" ph="/* do something with input.Value or input.Key ... */" />
+            <marker date="1530816956000" expanded="true" signature="3521:4375" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3620:3710" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3744:3834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3900:3990" ph="/* input.Value.Position[0] = UnityInput.GetAxisPos(input.Key)[0]; ... */" />
+            <marker date="1530816956000" expanded="true" signature="4433:5262" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4465:5254" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4565:4646" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4751:4830" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4945:5029" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5142:5225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5286:5388" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="5394:5609" ph="/// Method to add input to the dictionary for tracking ... " />
+            <marker date="1530816956000" expanded="true" signature="5680:5825" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5831:5989" ph="/// Method to remove input from the dictionary ... " />
+            <marker date="1530816956000" expanded="true" signature="6039:6224" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6090:6143" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6152:6220" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6228:6400" ph="/// Method to get status of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6452:6655" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6503:6555" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6564:6651" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6663:6844" ph="/// Method to get just position of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6894:7106" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6945:7006" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7015:7102" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7112:7491" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="7585:8129" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7613:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1096" ph="/* Keymap Manager ... */" />
+            <marker date="1530816956000" expanded="false" signature="1112:1172" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1174:1233" ph="/// Manages the use of keymaps ... " />
+            <marker date="1530816956000" expanded="true" signature="1269:11507" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1276:1382" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1392:1456" ph="/// Pointer to InputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="1496:1555" ph="/// Key to current map ... " />
+            <marker date="1530816956000" expanded="true" signature="1594:1665" ph="/// Dictionary of all virtual keys ... " />
+            <marker date="1530816956000" expanded="true" signature="1735:1794" ph="/// Dictionary of maps ... " />
+            <marker date="1530816956000" expanded="true" signature="1876:2019" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="2029:2136" ph="/// Dictionary of event to be fired when virtual button is pushed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2247:2349" ph="/// Dictionary of event to be fired when virtual button is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2569" ph="/// Dictionary of event to be fired when virtual button changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2680:2781" ph="/// Dictionary of event to be fired every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2902:3008" ph="/* Define Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="3018:3087" ph="/// Start method called by Unity ... " />
+            <marker date="1530816956000" expanded="true" signature="3104:4379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4389:4486" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="4504:7343" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4550:4684" ph="/* For every frame, update the virtual button by going through every key that contributes to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="4778:7337" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4801:4938" ph="/* virtualRealPair.Key is the name of the virtual key ... */" />
+            <marker date="1530816956000" expanded="true" signature="5016:7327" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5163:5525" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5751:5821" ph="/* Fire necessary events ... */" />
+            <marker date="1530816956000" expanded="true" signature="5868:7313" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5922:7295" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6074:6239" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6400:6563" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6734:6902" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7071:7238" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7363:7469" ph="/* Virtual Button Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="7479:7611" ph="/// Creates a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="7658:7930" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7711:7826" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7839:7924" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7940:8078" ph="/// Removes a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="8128:8377" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8181:8243" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8256:8371" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8385:8771" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="8863:9521" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8897:9515" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9541:9647" ph="/* Map Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="9657:9763" ph="/// Returns the inputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="9802:9834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9844:9942" ph="/// Returns the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="9966:10011" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10021:10157" ph="/// Sets the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="10193:10414" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10236:10288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10301:10408" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10422:10554" ph="/// Adds a new keymap to the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="10591:10850" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10634:10741" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10754:10844" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10858:11002" ph="/// Removes a keymap from the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="11042:11505" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11085:11379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11128:11288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11305:11369" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11392:11499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1096" ph="/* Keymap Manager ... */" />
+            <marker date="1530816956000" expanded="false" signature="1112:1172" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1174:1233" ph="/// Manages the use of keymaps ... " />
+            <marker date="1530816956000" expanded="true" signature="1269:11507" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1276:1382" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1392:1456" ph="/// Pointer to InputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="1496:1555" ph="/// Key to current map ... " />
+            <marker date="1530816956000" expanded="true" signature="1594:1665" ph="/// Dictionary of all virtual keys ... " />
+            <marker date="1530816956000" expanded="true" signature="1735:1794" ph="/// Dictionary of maps ... " />
+            <marker date="1530816956000" expanded="true" signature="1876:2019" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="2029:2136" ph="/// Dictionary of event to be fired when virtual button is pushed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2247:2349" ph="/// Dictionary of event to be fired when virtual button is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2569" ph="/// Dictionary of event to be fired when virtual button changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2680:2781" ph="/// Dictionary of event to be fired every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2902:3008" ph="/* Define Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="3018:3087" ph="/// Start method called by Unity ... " />
+            <marker date="1530816956000" expanded="true" signature="3104:4379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4389:4486" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="4504:7343" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4550:4684" ph="/* For every frame, update the virtual button by going through every key that contributes to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="4778:7337" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4801:4938" ph="/* virtualRealPair.Key is the name of the virtual key ... */" />
+            <marker date="1530816956000" expanded="true" signature="5016:7327" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5163:5525" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5751:5821" ph="/* Fire necessary events ... */" />
+            <marker date="1530816956000" expanded="true" signature="5868:7313" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5922:7295" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6074:6239" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6400:6563" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6734:6902" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7071:7238" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7363:7469" ph="/* Virtual Button Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="7479:7611" ph="/// Creates a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="7658:7930" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7711:7826" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7839:7924" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7940:8078" ph="/// Removes a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="8128:8377" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8181:8243" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8256:8371" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8385:8771" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="8863:9521" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8897:9515" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9541:9647" ph="/* Map Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="9657:9763" ph="/// Returns the inputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="9802:9834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9844:9942" ph="/// Returns the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="9966:10011" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10021:10157" ph="/// Sets the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="10193:10414" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10236:10288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10301:10408" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10422:10554" ph="/// Adds a new keymap to the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="10591:10850" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10634:10741" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10754:10844" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10858:11002" ph="/// Removes a keymap from the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="11042:11505" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11085:11379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11128:11288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11305:11369" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11392:11499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1213" ph="/* Input Handler ... */" />
+            <marker date="1530816956000" expanded="false" signature="1229:1275" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1278:1466" ph="/* The main class. Should only be instantiated once; will track all input for you, make requests to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="1485:8134" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1490:1592" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1598:1669" ph="/// Dictionary of inputs to be tracked ... " />
+            <marker date="1530816956000" expanded="true" signature="1733:1870" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="1876:1958" ph="/// Dictionary of events when key is pressed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2020:2096" ph="/// Dictionary of events when key is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2156:2239" ph="/// Dictionary of events when key changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2304:2390" ph="/// Dictionary of events every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2562" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="2568:2629" ph="/// Creates an input handler ... " />
+            <marker date="1530816956000" expanded="true" signature="2651:2996" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3002:3095" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="3119:5272" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3188:5268" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3201:3418" ph="/* do something with input.Value or input.Key ... */" />
+            <marker date="1530816956000" expanded="true" signature="3521:4375" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3620:3710" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3744:3834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3900:3990" ph="/* input.Value.Position[0] = UnityInput.GetAxisPos(input.Key)[0]; ... */" />
+            <marker date="1530816956000" expanded="true" signature="4433:5262" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4465:5254" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4565:4646" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4751:4830" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4945:5029" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5142:5225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5286:5388" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="5394:5609" ph="/// Method to add input to the dictionary for tracking ... " />
+            <marker date="1530816956000" expanded="true" signature="5680:5825" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5831:5989" ph="/// Method to remove input from the dictionary ... " />
+            <marker date="1530816956000" expanded="true" signature="6039:6224" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6090:6143" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6152:6220" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6228:6400" ph="/// Method to get status of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6452:6655" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6503:6555" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6564:6651" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6663:6844" ph="/// Method to get just position of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6894:7106" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6945:7006" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7015:7102" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7112:7491" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="7585:8129" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7613:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1096" ph="/* Keymap Manager ... */" />
+            <marker date="1530816956000" expanded="false" signature="1112:1172" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1174:1233" ph="/// Manages the use of keymaps ... " />
+            <marker date="1530816956000" expanded="true" signature="1269:11507" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1276:1382" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1392:1456" ph="/// Pointer to InputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="1496:1555" ph="/// Key to current map ... " />
+            <marker date="1530816956000" expanded="true" signature="1594:1665" ph="/// Dictionary of all virtual keys ... " />
+            <marker date="1530816956000" expanded="true" signature="1735:1794" ph="/// Dictionary of maps ... " />
+            <marker date="1530816956000" expanded="true" signature="1876:2019" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="2029:2136" ph="/// Dictionary of event to be fired when virtual button is pushed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2247:2349" ph="/// Dictionary of event to be fired when virtual button is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2569" ph="/// Dictionary of event to be fired when virtual button changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2680:2781" ph="/// Dictionary of event to be fired every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2902:3008" ph="/* Define Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="3018:3087" ph="/// Start method called by Unity ... " />
+            <marker date="1530816956000" expanded="true" signature="3104:4379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4389:4486" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="4504:7343" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4550:4684" ph="/* For every frame, update the virtual button by going through every key that contributes to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="4778:7337" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4801:4938" ph="/* virtualRealPair.Key is the name of the virtual key ... */" />
+            <marker date="1530816956000" expanded="true" signature="5016:7327" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5163:5525" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5751:5821" ph="/* Fire necessary events ... */" />
+            <marker date="1530816956000" expanded="true" signature="5868:7313" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5922:7295" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6074:6239" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6400:6563" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6734:6902" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7071:7238" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7363:7469" ph="/* Virtual Button Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="7479:7611" ph="/// Creates a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="7658:7930" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7711:7826" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7839:7924" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7940:8078" ph="/// Removes a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="8128:8377" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8181:8243" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8256:8371" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8385:8771" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="8863:9521" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8897:9515" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9541:9647" ph="/* Map Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="9657:9763" ph="/// Returns the inputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="9802:9834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9844:9942" ph="/// Returns the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="9966:10011" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10021:10157" ph="/// Sets the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="10193:10414" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10236:10288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10301:10408" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10422:10554" ph="/// Adds a new keymap to the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="10591:10850" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10634:10741" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10754:10844" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10858:11002" ph="/// Removes a keymap from the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="11042:11505" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11085:11379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11128:11288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11305:11369" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11392:11499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1213" ph="/* Input Handler ... */" />
+            <marker date="1530816956000" expanded="false" signature="1229:1275" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1278:1466" ph="/* The main class. Should only be instantiated once; will track all input for you, make requests to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="1485:8134" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1490:1592" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1598:1669" ph="/// Dictionary of inputs to be tracked ... " />
+            <marker date="1530816956000" expanded="true" signature="1733:1870" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="1876:1958" ph="/// Dictionary of events when key is pressed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2020:2096" ph="/// Dictionary of events when key is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2156:2239" ph="/// Dictionary of events when key changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2304:2390" ph="/// Dictionary of events every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2562" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="2568:2629" ph="/// Creates an input handler ... " />
+            <marker date="1530816956000" expanded="true" signature="2651:2996" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3002:3095" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="3119:5272" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3188:5268" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3201:3418" ph="/* do something with input.Value or input.Key ... */" />
+            <marker date="1530816956000" expanded="true" signature="3521:4375" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3620:3710" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3744:3834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3900:3990" ph="/* input.Value.Position[0] = UnityInput.GetAxisPos(input.Key)[0]; ... */" />
+            <marker date="1530816956000" expanded="true" signature="4433:5262" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4465:5254" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4565:4646" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4751:4830" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4945:5029" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5142:5225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5286:5388" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="5394:5609" ph="/// Method to add input to the dictionary for tracking ... " />
+            <marker date="1530816956000" expanded="true" signature="5680:5825" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5831:5989" ph="/// Method to remove input from the dictionary ... " />
+            <marker date="1530816956000" expanded="true" signature="6039:6224" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6090:6143" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6152:6220" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6228:6400" ph="/// Method to get status of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6452:6655" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6503:6555" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6564:6651" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6663:6844" ph="/// Method to get just position of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6894:7106" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6945:7006" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7015:7102" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7112:7491" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="7585:8129" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7613:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Camera/ChappersCam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="133" column="14" lean-forward="false" selection-start-line="133" selection-start-column="14" selection-end-line="133" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503583B5-FE04-448F-AF1B-E91E4200016E/dd/357a204a/SystemException.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D91C9DD7-2E7E-43CA-ACAF-56C08F388C09/2a/01f7061f/StackTraceUtility.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503583B5-FE04-448F-AF1B-E91E4200016E/29/a8dac167/Exception.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503583B5-FE04-448F-AF1B-E91E4200016E/fe/defb2220/Locale.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D91C9DD7-2E7E-43CA-ACAF-56C08F388C09/20/e87fac48/GameObject.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/503583B5-FE04-448F-AF1B-E91E4200016E/63/82b3ee76/NullReferenceException.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:447" ph="/* Player Main ... */" />
+            <marker date="1530816956000" expanded="false" signature="455:546" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="587:2438" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="591:691" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="862:962" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="966:1019" ph="/// Initialises Player ... " />
+            <marker date="1530816956000" expanded="true" signature="1034:1252" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1256:1307" ph="/// Runs every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="1323:1332" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1340:1440" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="1443:1596" ph="/// Damages the player by the given amount ... " />
+            <marker date="1530816956000" expanded="true" signature="1631:1793" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1647:1790" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1765:1786" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1795:1924" ph="/// Adds health to the player ... " />
+            <marker date="1530816956000" expanded="true" signature="1957:2064" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1973:2061" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="2067:2176" ph="/// Returns the player's current health ... " />
+            <marker date="1530816956000" expanded="true" signature="2202:2225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="2230:2343" ph="/// Only to be called within Player class, runs nessecary procedure to kill player ... " />
+            <marker date="1530816956000" expanded="true" signature="2363:2432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/KeyMapManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1096" ph="/* Keymap Manager ... */" />
+            <marker date="1530816956000" expanded="false" signature="1112:1172" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1174:1233" ph="/// Manages the use of keymaps ... " />
+            <marker date="1530816956000" expanded="true" signature="1269:11507" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1276:1382" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1392:1456" ph="/// Pointer to InputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="1496:1555" ph="/// Key to current map ... " />
+            <marker date="1530816956000" expanded="true" signature="1594:1665" ph="/// Dictionary of all virtual keys ... " />
+            <marker date="1530816956000" expanded="true" signature="1735:1794" ph="/// Dictionary of maps ... " />
+            <marker date="1530816956000" expanded="true" signature="1876:2019" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="2029:2136" ph="/// Dictionary of event to be fired when virtual button is pushed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2247:2349" ph="/// Dictionary of event to be fired when virtual button is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2569" ph="/// Dictionary of event to be fired when virtual button changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2680:2781" ph="/// Dictionary of event to be fired every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2902:3008" ph="/* Define Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="3018:3087" ph="/// Start method called by Unity ... " />
+            <marker date="1530816956000" expanded="true" signature="3104:4379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4389:4486" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="4504:7343" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4550:4684" ph="/* For every frame, update the virtual button by going through every key that contributes to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="4778:7337" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4801:4938" ph="/* virtualRealPair.Key is the name of the virtual key ... */" />
+            <marker date="1530816956000" expanded="true" signature="5016:7327" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5163:5525" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5751:5821" ph="/* Fire necessary events ... */" />
+            <marker date="1530816956000" expanded="true" signature="5868:7313" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5922:7295" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6074:6239" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6400:6563" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6734:6902" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7071:7238" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7363:7469" ph="/* Virtual Button Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="7479:7611" ph="/// Creates a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="7658:7930" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7711:7826" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7839:7924" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7940:8078" ph="/// Removes a virtual button ... " />
+            <marker date="1530816956000" expanded="true" signature="8128:8377" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8181:8243" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8256:8371" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8385:8771" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="8863:9521" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="8897:9515" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9541:9647" ph="/* Map Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="9657:9763" ph="/// Returns the inputHandler ... " />
+            <marker date="1530816956000" expanded="true" signature="9802:9834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="9844:9942" ph="/// Returns the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="9966:10011" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10021:10157" ph="/// Sets the current map ... " />
+            <marker date="1530816956000" expanded="true" signature="10193:10414" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10236:10288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10301:10408" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10422:10554" ph="/// Adds a new keymap to the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="10591:10850" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10634:10741" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10754:10844" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="10858:11002" ph="/// Removes a keymap from the manager ... " />
+            <marker date="1530816956000" expanded="true" signature="11042:11505" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11085:11379" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11128:11288" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11305:11369" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="11392:11499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="191" column="4" lean-forward="false" selection-start-line="191" selection-start-column="4" selection-end-line="194" selection-end-column="34" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:1213" ph="/* Input Handler ... */" />
+            <marker date="1530816956000" expanded="false" signature="1229:1275" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="1278:1466" ph="/* The main class. Should only be instantiated once; will track all input for you, make requests to it ... */" />
+            <marker date="1530816956000" expanded="true" signature="1485:8134" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1490:1592" ph="/* Initialise Variables ... */" />
+            <marker date="1530816956000" expanded="true" signature="1598:1669" ph="/// Dictionary of inputs to be tracked ... " />
+            <marker date="1530816956000" expanded="true" signature="1733:1870" ph="/* Initialise Event ... */" />
+            <marker date="1530816956000" expanded="true" signature="1876:1958" ph="/// Dictionary of events when key is pressed down ... " />
+            <marker date="1530816956000" expanded="true" signature="2020:2096" ph="/// Dictionary of events when key is let up ... " />
+            <marker date="1530816956000" expanded="true" signature="2156:2239" ph="/// Dictionary of events when key changes position ... " />
+            <marker date="1530816956000" expanded="true" signature="2304:2390" ph="/// Dictionary of events every MonoBehaviour.Update() ... " />
+            <marker date="1530816956000" expanded="true" signature="2460:2562" ph="/* Unity Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="2568:2629" ph="/// Creates an input handler ... " />
+            <marker date="1530816956000" expanded="true" signature="2651:2996" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3002:3095" ph="/// MonoBehaviour updates all keys being tracked every frame ... " />
+            <marker date="1530816956000" expanded="true" signature="3119:5272" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3188:5268" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3201:3418" ph="/* do something with input.Value or input.Key ... */" />
+            <marker date="1530816956000" expanded="true" signature="3521:4375" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3620:3710" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3744:3834" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="3900:3990" ph="/* input.Value.Position[0] = UnityInput.GetAxisPos(input.Key)[0]; ... */" />
+            <marker date="1530816956000" expanded="true" signature="4433:5262" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4465:5254" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4565:4646" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4751:4830" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="4945:5029" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5142:5225" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5286:5388" ph="/* Methods ... */" />
+            <marker date="1530816956000" expanded="true" signature="5394:5609" ph="/// Method to add input to the dictionary for tracking ... " />
+            <marker date="1530816956000" expanded="true" signature="5680:5825" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="5831:5989" ph="/// Method to remove input from the dictionary ... " />
+            <marker date="1530816956000" expanded="true" signature="6039:6224" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6090:6143" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6152:6220" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6228:6400" ph="/// Method to get status of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6452:6655" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6503:6555" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6564:6651" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6663:6844" ph="/// Method to get just position of a certain key ... " />
+            <marker date="1530816956000" expanded="true" signature="6894:7106" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="6945:7006" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7015:7102" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7112:7491" ph="/// Method to add a custom event function to be fired when a key meets the InputEventType ... " />
+            <marker date="1530816956000" expanded="true" signature="7585:8129" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="7613:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Items/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:146" ph="/* Items ... */" />
+            <marker date="1530816956000" expanded="false" signature="162:331" ph="..." />
+            <marker date="1530816956000" expanded="true" signature="333:403" ph="/// Describes the type of item a thing is ... " />
+            <marker date="1530816956000" expanded="true" signature="424:853" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="431:522" ph="/// Items that improve the player's health in some way ... " />
+            <marker date="1530816956000" expanded="true" signature="544:632" ph="/// Items that aid the player in combat in some way ... " />
+            <marker date="1530816956000" expanded="true" signature="654:718" ph="/// Items that unlock doors ... " />
+            <marker date="1530816956000" expanded="true" signature="738:829" ph="/// Items that are collected for the sake of narrative ... " />
+            <marker date="1530816956000" expanded="true" signature="855:932" ph="/// The class that all items should inherit from ... " />
+            <marker date="1530816956000" expanded="true" signature="950:1211" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="1107:1199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Items/Pages.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <marker date="1530816956000" expanded="true" signature="0:240" ph="/* Pages Items ... */" />
+            <marker date="1530816956000" expanded="true" signature="275:452" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="420:441" ph="{...}" />
+            <marker date="1530816956000" expanded="true" signature="454:535" ph="/* In code somewhere: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
