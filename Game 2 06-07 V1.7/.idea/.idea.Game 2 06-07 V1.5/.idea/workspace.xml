@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95ca8987-02a3-4c26-a626-94d1797f11fd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PlayerMain.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+              <folding>
+                <marker date="1530886988345" expanded="true" signature="0:447" ph="/* Player Main ... */" />
+                <marker date="1530886988345" expanded="false" signature="455:501" ph="..." />
+                <marker date="1530886988345" expanded="true" signature="542:4273" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="546:646" ph="/* Initialise Variables ... */" />
+                <marker date="1530886988345" expanded="true" signature="932:1032" ph="/* Unity Methods ... */" />
+                <marker date="1530886988345" expanded="true" signature="1035:1088" ph="/// Initialises Player ... " />
+                <marker date="1530886988345" expanded="true" signature="1103:2413" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="1660:1690" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="1921:1951" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2085:2255" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2287:2403" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2416:2467" ph="/// Runs every frame ... " />
+                <marker date="1530886988345" expanded="true" signature="2483:2491" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2496:2596" ph="/* Methods ... */" />
+                <marker date="1530886988345" expanded="true" signature="2599:2719" ph="/// Checks to see if the collided item can be picked up ... " />
+                <marker date="1530886988345" expanded="true" signature="2768:2874" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2813:2867" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2895:2954" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="2958:3110" ph="/// Damages the player by the given amount ... " />
+                <marker date="1530886988345" expanded="true" signature="3144:3307" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3161:3304" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3279:3300" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3311:3439" ph="/// Adds health to the player ... " />
+                <marker date="1530886988345" expanded="true" signature="3471:3579" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3488:3576" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3582:3691" ph="/// Returns the player's current health ... " />
+                <marker date="1530886988345" expanded="true" signature="3717:3741" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3745:3858" ph="/// Only to be called within Player class, runs nessecary procedure to kill player ... " />
+                <marker date="1530886988345" expanded="true" signature="3878:3948" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="3989:4019" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="4070:4188" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="4108:4185" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="4142:4181" ph="{...}" />
+                <marker date="1530886988345" expanded="true" signature="4227:4269" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Game 2 06-07 V1.5" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95ca8987-02a3-4c26-a626-94d1797f11fd" name="Default" comment="" />
+      <created>1530889968081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530889968081</updated>
+      <workItem from="1530889973820" duration="2649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2649000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <marker date="1530886988345" expanded="true" signature="0:447" ph="/* Player Main ... */" />
+            <marker date="1530886988345" expanded="false" signature="455:501" ph="..." />
+            <marker date="1530886988345" expanded="true" signature="542:4273" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="546:646" ph="/* Initialise Variables ... */" />
+            <marker date="1530886988345" expanded="true" signature="932:1032" ph="/* Unity Methods ... */" />
+            <marker date="1530886988345" expanded="true" signature="1035:1088" ph="/// Initialises Player ... " />
+            <marker date="1530886988345" expanded="true" signature="1103:2413" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="1660:1690" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="1921:1951" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2085:2255" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2287:2403" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2416:2467" ph="/// Runs every frame ... " />
+            <marker date="1530886988345" expanded="true" signature="2483:2491" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2496:2596" ph="/* Methods ... */" />
+            <marker date="1530886988345" expanded="true" signature="2599:2719" ph="/// Checks to see if the collided item can be picked up ... " />
+            <marker date="1530886988345" expanded="true" signature="2768:2874" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2813:2867" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2895:2954" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="2958:3110" ph="/// Damages the player by the given amount ... " />
+            <marker date="1530886988345" expanded="true" signature="3144:3307" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3161:3304" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3279:3300" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3311:3439" ph="/// Adds health to the player ... " />
+            <marker date="1530886988345" expanded="true" signature="3471:3579" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3488:3576" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3582:3691" ph="/// Returns the player's current health ... " />
+            <marker date="1530886988345" expanded="true" signature="3717:3741" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3745:3858" ph="/// Only to be called within Player class, runs nessecary procedure to kill player ... " />
+            <marker date="1530886988345" expanded="true" signature="3878:3948" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="3989:4019" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="4070:4188" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="4108:4185" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="4142:4181" ph="{...}" />
+            <marker date="1530886988345" expanded="true" signature="4227:4269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
