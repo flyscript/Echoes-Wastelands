@@ -1,4 +1,4 @@
-# Game2
+# Echoes: Wastelands
 
 An impossibly difficult rage platformer that I helped create as part of one of my first collaboratively developed games on my bachelors degree.
 
